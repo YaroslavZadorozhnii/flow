@@ -1,0 +1,15 @@
+package com.gmail.docfordja;
+
+public class main {
+
+
+
+		public static void main(String[] args) {
+			Factorial f =  new Factorial();
+	        System.out.println(f.result(5));
+			f.multiFactorial(10);
+
+		}
+
+	}
+
